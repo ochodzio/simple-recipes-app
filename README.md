@@ -1,6 +1,6 @@
-# adv_app
+# simple recipe app
 
-A new Flutter project.
+Clean minimalist recipes app in flutter
 
 ## Getting Started
 
